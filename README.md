@@ -12,7 +12,7 @@ To use this bot, you will need to install the following dependencies:
 Once you have these installed, you can clone the repository and install the required dependencies using the following commands:
 
 git clone[(https://github.com/yoghaf/pancakeswap-newlistingtoken)](https://github.com/yoghaf/pancakeswap-listingnewtoken)
-cd bot-listing-new-tokens-pancakeswap
+cd pancakeswap-listingnewtoken
 npm install
 ## Usage
 To start this program you can write 
